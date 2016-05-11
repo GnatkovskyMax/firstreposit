@@ -1,0 +1,33 @@
+	.container{
+		width:95%;
+		margin:0 auto;
+	}
+	.header{
+		background-color:#3f4142;
+		padding:10px 0;
+	}
+	.header-box{
+		display:inline-block;
+		vertical-align:middle;
+		margin-bottom:5px;
+	}
+	.logo{
+		background:url(../img/logo.png);
+		width:160px;
+		height:34px;
+		display:inline-block;
+	}
+	.button{
+		background-color:#f1ad00;
+		color:white;
+		font-size:18px;
+		height:50px;
+		width:255px;
+		text-align:center;
+		line-height:50px;
+	}
+	.phone{
+		width:150px;
+		padding-left:30px;
+		background:url(../img/phone.png) no-repeat left center;
+	}
